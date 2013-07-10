@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/resetcounter"
+        android:orderInCategory="2"
+        android:title="@string/opt_reset_count"/>
+
+    <item
+        android:id="@+id/report"
+        android:orderInCategory="3"
+        android:title="@string/opt_report"/>
+</menu>

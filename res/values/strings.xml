@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChaoIceTea - Sale Counter</string>
+    
+    <string name="opt_reset_count">Reset Count</string>
+    <string name="opt_exit">End Session</string>
+    <string name="opt_report">Report</string>
+    <string name="opt_export">Export</string>
+    <string name="opt_report_logs">Report Logs</string>
+    
+    <string name="button_login">Start New Selling Session</string>
+    <string name="crew">Crew  </string>
+    <string name="lokasi">Place  </string>
+    <string name="nama_crew">Nama belum diinput</string>
+    <string name="lokasi_operasi">Lokasi belum diinput</string>
+    <string name="menu_0">Teh Original @ Rp.2500</string>
+    <string name="menu_1">Teh Lemon @ Rp. 3000</string>
+    <string name="menu_2">Teh Creamy @ Rp. 3000</string>
+    <string name="menu_3">Teh Coklat @ Rp. 3500</string>
+    <string name="menu_4">Teh Jeruk @ Rp. 3500</string>
+    <string name="menu_5">Teh Oreo @ Rp. 3500</string>
+    <string name="menu_6">Teh Soda @ Rp. 3500</string>
+    <string name="menu_7">Teh Coklat Oreo @ Rp. 4000</string>
+    <string name="menu_8">Teh Lemon Soda @ Rp. 4000</string>
+
+    <string name="count_0">0</string>
+    <string name="count_1">0</string>
+    <string name="count_2">0</string>
+    <string name="count_3">0</string>
+    <string name="count_4">0</string>
+    <string name="count_5">0</string>
+    <string name="count_6">0</string>
+    <string name="count_7">0</string>
+    <string name="count_8">0</string>
+    <string name="button_0">Original</string>
+    <string name="button_1">Lemon</string>
+    <string name="button_2">Creamy</string>
+    <string name="button_3">Coklat</string>
+    <string name="button_4">Jeruk</string>
+    <string name="button_5">Oreo</string>
+    <string name="button_6">Soda</string>
+    <string name="button_7">Coklat \nOreo</string>
+    <string name="button_8">Lemon \nSoda</string>
+
+    <color name="transparan">#50ffffff</color>
+    <color name="putih">#99ffffff</color>
+
+    <string name="title_activity_report">Report</string>
+    <string name="title_activity_count">Count</string>
+
+</resources>
